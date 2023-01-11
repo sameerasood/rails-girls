@@ -1,24 +1,23 @@
-# README
+# Rails Girls App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## A simple ruby on rails app to upload pictures.
 
-Things you may want to cover:
+Welcome to Rails Girls App. This app has been created by following the Rails Girls App tutorial (http://guides.railsgirls.com/app) deisgned to help new developers learn how to build a basic web application using Ruby on Rails.
 
-* Ruby version
+### What do we achieve in this app
+- Setting up a development environment
+- Building a basic Rails application
+- Connecting the application to a database
+- Creating views and controllers
+- Adding authentication and authorization
 
-* System dependencies
+### Prerequisites
+- Basic understanding of HTML and CSS
+- Basic programming concepts (variables, loops, etc.)
+- Git version control
 
-* Configuration
+## Support
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For any support or questions, please refer to the Rails Girls community resources. 
+- [Rails Girls website](https://railsgirls.com/)
+- [Rails Girls on Github](https://github.com/railsgirls)
